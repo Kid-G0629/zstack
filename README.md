@@ -10,6 +10,8 @@
 
 > **If you need to keep AI training data private, you need your own IaaS. ZStack makes it free and simple.**
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 ---
 
 ## What is ZStack?

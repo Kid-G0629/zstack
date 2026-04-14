@@ -10,6 +10,8 @@
 
 > **如果你的 AI 训练数据需要保密，你就需要自己的 IaaS。ZStack 让它免费又简单。**
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 ---
 
 ## 什么是 ZStack?
